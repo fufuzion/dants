@@ -2,10 +2,10 @@ package dants
 
 import (
 	"context"
-	"dants/limiter"
 	"errors"
 	"fmt"
 	"github.com/alicebob/miniredis/v2"
+	"github.com/fufuzion/dants/limiter"
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/assert"
 	"sync"

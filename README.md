@@ -15,4 +15,5 @@
 ## 🚀 安装
 
 ```bash
-go get github.com/your/repo
+go get github.com/fufuzion/dants
+```

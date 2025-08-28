@@ -2,9 +2,9 @@ package dants
 
 import (
 	"context"
-	"dants/limiter"
 	"errors"
 	"fmt"
+	"github.com/fufuzion/dants/limiter"
 	"github.com/panjf2000/ants/v2"
 	"sync"
 )

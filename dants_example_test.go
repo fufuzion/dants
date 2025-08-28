@@ -2,9 +2,9 @@ package dants
 
 import (
 	"context"
-	"dants/limiter"
 	"fmt"
 	"github.com/alicebob/miniredis/v2"
+	"github.com/fufuzion/dants/limiter"
 	"github.com/redis/go-redis/v9"
 	"time"
 )

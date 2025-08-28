@@ -1,4 +1,4 @@
-module dants
+module github.com/fufuzion/dants
 
 go 1.23.1
 
